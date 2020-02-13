@@ -9,9 +9,9 @@ const Navigation = () => {
 
         {/*Adding the Link & give them a to= value to use in app.js 
         & in the app.js I will use the Route */}
-        
+
         <div>
-          <Link to="/">Home </Link>
+          <Link to="/home">Home </Link>
         </div>
 
         <div>
